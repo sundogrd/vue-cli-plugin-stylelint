@@ -1,5 +1,5 @@
 {
-  "name": "@sundogrd/vue-cli-plugin-stylelint",
+  "name": "@lwyj123/vue-cli-plugin-stylelint",
   "version": "1.0.0",
   "description": "stylelint plugin for vue-cli",
   "main": "index.js",
